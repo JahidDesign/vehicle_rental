@@ -3,3 +3,4 @@ dist/
 .env
 *.log
 .DS_Store
+ #Auth Url: https://oauth2.neon.tech/oauth2/auth?scope=openid+offline+offline_access+urn%3Aneoncloud%3Aprojects%3Acreate+urn%3Aneoncloud%3Aprojects%3Aread+urn%3Aneoncloud%3Aprojects%3Aupdate+urn%3Aneoncloud%3Aprojects%3Adelete+urn%3Aneoncloud%3Aorgs%3Acreate+urn%3Aneoncloud%3Aorgs%3Aread+urn%3Aneoncloud%3Aorgs%3Aupdate+urn%3Aneoncloud%3Aorgs%3Adelete+urn%3Aneoncloud%3Aorgs%3Apermission&state=dVL717BEdd7WSqK5ilmGMCABT75zuILDth4Bzjl3zwk&code_challenge=tc2jS8Ch3cD1ThKdC-ab-i4x62fLk1Mr0woCVp7SvOM&code_challenge_method=S256&redirect_uri=http%3A%2F%2F127.0.0.1%3A59738%2Fcallback&client_id=neonctl&response_type=code
