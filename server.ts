@@ -1,8 +1,8 @@
-import app from './app';
-import { config } from './config/env';
-import { pool } from './config/database';
+import app from './src/app';
+import { config } from './src/config/env';
+import { pool } from './src/config/database';
 import cron from 'node-cron';
-import { autoReturnExpiredBookings } from './modules/bookings/bookings.service';
+import { autoReturnExpiredBookings } from './src/modules/bookings/bookings.service';
 
 const startServer = async () => {
   // Test DB connection
