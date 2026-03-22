@@ -1,4 +1,21 @@
-# 🚗 Vehicle Rental System API
+# 🚗 Vehicle Rental API
+
+Backend API for managing vehicles, users, and bookings.
+
+---
+
+## 📸 Project Screenshots
+
+### 🔹 Screenshot 1
+
+![Vehicle Rental Screenshot 1](https://i.ibb.co.com/m5G9B382/Whats-App-Image-2026-03-22-at-06-29-08.jpg)
+
+### 🔹 Screenshot 2
+
+![Vehicle Rental Screenshot 2](https://i.ibb.co.com/RGxS4LHW/Whats-App-Image-2026-03-22-at-06-29-58.jpg)
+
+---
+
 
 A fully-featured backend REST API for a vehicle rental management system built with **Node.js**, **TypeScript**, **Express.js**, and **PostgreSQL**.
 
@@ -74,7 +91,7 @@ npm install
 ### 2. Configure environment variables
 
 ```bash
-cp .env.example .env
+cp .env .env
 ```
 
 Edit `.env` with your values:
