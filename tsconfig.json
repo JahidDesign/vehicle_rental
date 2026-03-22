@@ -6,7 +6,7 @@
       "ES2020"
     ],
     "outDir": "./dist",
-    "rootDir": "",
+    "rootDir": "./src",
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
@@ -18,7 +18,7 @@
   },
   "include": [
     "src/**/*",
-    "server.ts"
+    "src/server.ts"
   ],
   "exclude": [
     "node_modules",
